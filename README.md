@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Carlysson! / Hi, I'm Carlysson! 👋
 
-<!--
-**Not01Found0404/Not01Found0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#-sobre-mim">🇧🇷 Português</a> • 
+  <a href="#-about-me">🇺🇸 English</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlysson-gabriel/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+    <a href="https://www.kaggle.com/carlysson" target="_blank">
+    <img src="https://shields.io" alt="Kaggle"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🇧🇷 Sobre Mim
+> "Tentando fazer dar certo, pois se der errado, não será por falta de tentativas" 🧠
+
+- 🔭 Atualmente estou trabalhando na área de Administração.
+- 🌱 Finalizando minha graduação em Ciência de Dados.
+
+### 🛠️ Habilidades e Tecnologias
+*   **Languages:** Python and R, até o momento
+
+---
+
+## 🇺🇸 About Me
+> "Trying to make it work, because if it goes wrong, it won't be for lack of trying" 🧠
+
+- 🔭 I’m currently working in Administration.
+- 🌱 Finishing my bachelor's degree in Data Science.
+
+### 🛠️ Skills and Technologies
+*   **Languages:** Python and R, so far
