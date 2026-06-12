@@ -6,11 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlysson-gabriel/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn /"/>
-  </a>
     <a href="https://www.kaggle.com/carlysson" target="_blank">
-    <img src="https://shields.io" alt=" Kaggle"/>
+    <img src="https://shields.io" alt="Kaggle"/>
   </a>
 </p>
 
