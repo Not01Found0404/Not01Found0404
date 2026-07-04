@@ -20,7 +20,7 @@
 - 🌱 Finalizando minha graduação em Ciência de Dados.
 
 ### 🛠️ Habilidades e Tecnologias
-*   **Languages:** Python and R, até o momento
+*   **Linguagens:** Python e R, até o momento
 
 ---
 
